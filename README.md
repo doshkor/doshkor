@@ -1,21 +1,26 @@
-### iOS Develpoer 디오
+### 안녕하세요 iOS Develpoer 디오입니다👋
+</br>
 
-<!--
-**doshkor/doshkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on <img src="https://camo.githubusercontent.com/e123a3c48825cb71caeb307ab34e9e16c36c129c5d0233a5b9413851a1e1445b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4630353133383f267374796c653d666c6174266c6f676f3d5377696674266c6f676f436f6c6f723d464646464646" />
 
-Here are some ideas to get you started:
+🌱 I’m currently learning <img src="https://camo.githubusercontent.com/e123a3c48825cb71caeb307ab34e9e16c36c129c5d0233a5b9413851a1e1445b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4630353133383f267374796c653d666c6174266c6f676f3d5377696674266c6f676f436f6c6f723d464646464646" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...👍
--->
+👯 I’m looking to collaborate on <img src="https://camo.githubusercontent.com/e123a3c48825cb71caeb307ab34e9e16c36c129c5d0233a5b9413851a1e1445b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4630353133383f267374796c653d666c6174266c6f676f3d5377696674266c6f676f436f6c6f723d464646464646" />
 
-<img src="https://camo.githubusercontent.com/e123a3c48825cb71caeb307ab34e9e16c36c129c5d0233a5b9413851a1e1445b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4630353133383f267374796c653d666c6174266c6f676f3d5377696674266c6f676f436f6c6f723d464646464646" />
+🤔 I’m looking for help with <img src="https://camo.githubusercontent.com/e123a3c48825cb71caeb307ab34e9e16c36c129c5d0233a5b9413851a1e1445b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4630353133383f267374796c653d666c6174266c6f676f3d5377696674266c6f676f436f6c6f723d464646464646" />
 
-![Doshkor's GitHub stats](https://github-readme-stats.vercel.app/api?username=doshkor&show_icons=true&theme=dark)
+</br>
+
+
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ...👍 -->
+
+<br/>
+
+Swift 부셔.! 👊
+
+
+<!-- ![Doshkor's GitHub stats](https://github-readme-stats.vercel.app/api?username=doshkor&show_icons=true&theme=dark) -->
 
